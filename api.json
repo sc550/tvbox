@@ -1,9 +1,9 @@
 {
 	"lives": [
         {
-            "name": "影视仓直播",
+            "name": "冰茶TV",
             "type": 0,
-            "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+            "url": "https://bc.188766.xyz/?url=https://live.188766.xyz",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
         }
 	],
