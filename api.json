@@ -4,8 +4,7 @@
             "name": "影视仓直播",
             "type": 0,
             "url": "./lives/jxdx.txt",
-		//  "epg": "https://tv.mxdyeah.top/epgphp/index.php/?ch={name}&date={date}"   
-            "epg": "https://tv.mxdyeah.top/epgphp/t.xml.gz"              
+            "epg": "http://192.168.31.12:7010"              
         }
 	],
 	"sites": [
