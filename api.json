@@ -9,13 +9,13 @@
         {
             "name": "江西电信",
             "type": 0,
-            "url": "./live/jxdx.txt",
+            "url": "./lives/jxdx.txt",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
         },
         {
             "name": "江西移动",
             "type": 0,
-            "url": "./live/jxyd.txt",
+            "url": "./lives/jxyd.txt",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
         }
 	],
