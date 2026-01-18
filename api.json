@@ -5,6 +5,18 @@
             "type": 0,
             "url": "https://bc.188766.xyz/?url=https://live.188766.xyz&mima=bingcha1130",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        },
+        {
+            "name": "江西电信",
+            "type": 0,
+            "url": "./live/jxdx.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
+        },
+        {
+            "name": "江西移动",
+            "type": 0,
+            "url": "./live/jxyd.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
         }
 	],
 	"sites": [
