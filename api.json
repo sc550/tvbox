@@ -22,14 +22,12 @@
 	],
 	"sites": [
         {
-            "key": "柠檬",
-            "name": "🍋柠檬┃App",
+            "key": "个人影视",
+            "name": "🐜个人｜影视",
             "type": 3,
-            "jar":"./jars/qiaoji.jar",
-            "api": "csp_Nmvod",
-            "playerType": 2,
-            "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-        },
+            "api": "csp_XBPQ",
+            "ext": "./libs/个人影视.json"
+        },    
         {
             "key": "蝴蝶",
             "name": "🦋蝴蝶┃App",
@@ -38,6 +36,15 @@
             "api": "csp_Qiji",
             "playerType": 2,
             "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9677gg"
+        },
+		{
+            "key": "柠檬",
+            "name": "🍋柠檬┃App",
+            "type": 3,
+            "jar":"./jars/qiaoji.jar",
+            "api": "csp_Nmvod",
+            "playerType": 2,
+            "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
         },
         {
             "key": "蚂蚁影视",
@@ -71,15 +78,6 @@
             "api": "csp_Qiji",
             "playerType": 2,
             "ext": "7lj763gg0939795i007ki485k612jli3hil9990l96j86i79025j08k7l8055g1h1i834kg3i900i0j06k4hg190k2lj0gk6k567614jl0k399gl72j06hkl3ilj1l"
-        }, 
-        {
-            "key": "huomaoys",
-            "name": "🐈火猫┃App",
-            "type": 3,
-	        "jar":"./jars/qiaoji.jar",
-            "api": "csp_Qiji",
-            "playerType": 2,
-            "ext": "7lj763gg402i7942553k9hj9lk5h8h86k4gg845kili63835585155k7k103470h1k955lhk9706ih80280ikij0g7l91jlhl565775ikjhj9lg422962ig23ili4845k6g492l0"
         }
     ]
 }
