@@ -22,15 +22,16 @@
 	],
 	"sites": [
 		{
-			"key":"csp_Gz360",
-			"name":"🍉瓜子",
-			"type":3,
-			"jar":"./jars/nfspider.jar"
-			"api":"csp_Gz360",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},
+            "key": "csp_Gz360",
+            "name": "🍉瓜子｜影视",
+            "jar":"./jars/nfspider.jar",
+			"type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./libs/永乐影视.json"
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+        },
 		{
             "key": "永乐影视",
             "name": "😀永乐｜影视",
