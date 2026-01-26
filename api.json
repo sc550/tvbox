@@ -21,7 +21,17 @@
         }
 	],
 	"sites": [
-        {
+		{
+			"key":"csp_Gz360",
+			"name":"🍉瓜子",
+			"type":3,
+			"jar":./jars/nfspider.jar"
+			"api":"csp_Gz360",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+		{
             "key": "永乐影视",
             "name": "😀永乐｜影视",
             "type": 3,
