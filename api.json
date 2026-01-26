@@ -24,7 +24,7 @@
 		{
             "key": "csp_Gz360",
             "name": "🍉瓜子｜影视",
-            "jar":"./jars/nfspider.jar",
+            "jar":""https://jihulab.com/yoursmile2/TVBox/-/raw/main/Yoursmile.jar",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
