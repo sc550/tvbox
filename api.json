@@ -25,12 +25,12 @@
             "key": "csp_Gz360",
             "name": "🍉瓜子｜影视",
             "jar":"./jars/nfspider.jar",
-			"type": 3,
+            "type": 3,
             "api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"danmu": "false"
+            "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1,
+	    "danmu": "false"
         },
 		{
             "key": "永乐影视",
