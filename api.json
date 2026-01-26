@@ -25,7 +25,7 @@
 			"key":"csp_Gz360",
 			"name":"🍉瓜子",
 			"type":3,
-			"jar":."/jars/nfspider.jar"
+			"jar":"./jars/nfspider.jar"
 			"api":"csp_Gz360",
 			"searchable":1,
 			"quickSearch":1,
