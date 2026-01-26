@@ -32,6 +32,39 @@
             "filterable": 1
         },
 		{
+            "key": "⛅天天",
+            "name": "⛅天天｜影视",
+            "jar":"./jars/Yoursmile.jar",
+            "type": 3,
+            "api": "csp_TTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "7lj763gg0939791h1l3888jig44gi291li"
+        },
+		{
+            "key": "🥇金牌",
+            "name": "🥇金牌｜影视",
+            "jar":"./jars/Yoursmile.jar",
+            "type": 3,
+            "api": "csp_Jpys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+        },
+		{
+            "key": "🧲荐片",
+            "name": "🧲荐片｜影视",
+            "jar":"./jars/Yoursmile.jar",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": ".libs/jianpian.json"
+        },
+		{
             "key": "永乐影视",
             "name": "😀永乐｜影视",
             "type": 3,
