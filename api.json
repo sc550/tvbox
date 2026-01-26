@@ -28,8 +28,8 @@
             "type": 3,
             "api": "csp_Gz360",
             "searchable": 1,
-	    "quickSearch": 1,
-	    "filterable": 1
+            "quickSearch": 1,
+            "filterable": 1
         },
 		{
             "key": "永乐影视",
@@ -51,6 +51,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./libs/蚂蚁影视.json"
-		}        
+        }        
     ]
 }
