@@ -20,25 +20,6 @@
         }
 	],
 	"sites": [
-
-        {
-            "key": "奇奇影视",
-            "name": "🥝奇奇｜影视",
-            "type": 3,
-            "jar":"./jars/xs.jar",
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext":
-                 {
-                    "url": "http://110.42.67.221:8007",
-                    "dataKey": "123456789abcdefg",
-                    "dataIv": "123456789abcdefg",
-                    "search": "searchList7",
-                    "init": "initV122",
-                    "ua": "okhttp/3.10.0"
-                    }
-        },
         {
             "key": "蚂蚁影视",
             "name": "🐜蚂蚁｜影视",
