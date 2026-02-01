@@ -61,14 +61,6 @@
             "jar":"./jars/xbpq.jar",
             "api": "csp_XBPQ",
             "ext": "./libs/永乐影视.json"
-        },
-        {
-            "key": "个人影视",
-            "name": "🐯个人｜影视",
-            "type": 3,
-            "jar":"./jars/xbpq.jar",
-            "api": "csp_XBPQ",
-            "ext": "./libs/个人影视.json"
-        }       
+        } 
     ]
 }
