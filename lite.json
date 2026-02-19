@@ -4,11 +4,6 @@
 {
 	"lives": [
         {
-            "name": "冰茶TV",
-            "type": 0,
-            "url": "https://bc.188766.xyz/?url=https://live.ottiptv.cc",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
-        },        {
             "name": "江西电信",
             "type": 0,
             "url": "./lives/jxdx.txt",
