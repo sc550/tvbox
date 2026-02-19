@@ -2,20 +2,6 @@
 //本接口无公众号、无盈利、无引流、仅为自己使用，他人请直接使用大佬接口，谢谢。
 
 {
-	"lives": [
-        {
-            "name": "江西电信",
-            "type": 0,
-            "url": "./lives/jxdx.txt",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
-        },
-        {
-            "name": "江西移动",
-            "type": 0,
-            "url": "./lives/jxyd.txt",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
-        }
-	],
 	"sites": [
         {
             "key": "csp_XYQHiker_农民影视",
