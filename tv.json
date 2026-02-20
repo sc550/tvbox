@@ -17,7 +17,7 @@
       "key": "糯米",
       "name": "☀糯米🔹蓝光",
       "type": 3,
-      "jar":"./jars/kjtw.jar",
+      "jar":"./jars/tw.jar",
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -25,7 +25,7 @@
       "filterable": 1,
       "ext": {
         "sp": "Nmys",
-        "danmu": true
+        "danmu": false
         },
         "timeout": 10
        },
