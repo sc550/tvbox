@@ -2,22 +2,33 @@
 //本接口无公众号、无盈利、无引流、仅为自己使用，他人请直接使用大佬接口，谢谢。
 
 {
-	"lives": [
-        {
-            "name": "江西电信",
-            "type": 0,
-            "url": "./lives/jxdx.txt",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
-        },
-        {
-            "name": "江西移动",
-            "type": 0,
-            "url": "./lives/jxyd.txt",
-            "epg": "https://tv.mxdyeah.top/epgphp/index.php"              
-        }
-	],
 	"sites": [
-
+        {
+      "key": "麻雀",
+      "name": "☀麻雀🔹蓝光",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
+      "ext": "http://118.89.203.120:8365/"
+    },
+        
+     {
+      "key": "糯米",
+      "name": "☀糯米🔹蓝光",
+      "type": 3,
+      "jar":"./jars/xbpq.jar",
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Nmys",
+        "danmu": false
+        },
+        "timeout": 10
+       },
         {
             "key": "蚂蚁影视",
             "name": "🐜蚂蚁｜影视",
@@ -33,36 +44,7 @@
             "jar":"./jars/xbpq.jar",
             "api": "csp_XBPQ",
             "ext": "./libs/永乐影视.json"
-        },
-        {
-            "key": "瓜子影视", 
-            "name": "🍉瓜子｜影视", 
-            "type": 3,
-            "jar":"./jars/nf.jar",
-            "api": "csp_Gz360"
-            },
-        {
-             "key":"金牌",
-             "name":"🥇金牌｜影视",
-             "type":3,
-             "jar":"./jars/nf.jar",
-             "api":"csp_Jpys",
-             "searchable":1,
-             "quickSearch":1,
-             "filterable":1,
-             "ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
-             },
-        {
-            "key":"优质",
-            "name":"🌈优质｜影视",
-            "type":3,
-            "jar":"./jars/nf.jar",
-            "api":"csp_Qiji",
-            "playerType":2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"7lj763gg402i7942433293i0g9458881hig7j94k818g326i51491kljlk134k401g9g54gk8j5i9097751kh28kh9kj11kjl92k6046l0gkj8l630892glj67g61h48g3kjiigkg0263k6h955430429ill43307gk8k0602hh09lh0j6jh7h"
-            }
+        }
+
     ]
 }
