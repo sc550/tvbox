@@ -3,16 +3,6 @@
 
 {
 	"sites": [
-        {
-      "key": "麻雀",
-      "name": "☀麻雀🔹蓝光",
-      "type": 3,
-      "quickSearch": 1,
-      "searchable": 1,
-      "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
-      "ext": "http://118.89.203.120:8365/"
-    },
-        
      {
       "key": "糯米",
       "name": "☀糯米🔹蓝光",
@@ -29,6 +19,17 @@
         },
         "timeout": 10
        },
+		{
+      "key": "麻雀",
+      "name": "☀麻雀🔹蓝光",
+      "type": 3,
+      "quickSearch": 1,
+      "searchable": 1,
+      "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
+      "ext": "http://118.89.203.120:8365/"
+    },
+        
+
         {
             "key": "蚂蚁影视",
             "name": "🐜蚂蚁｜影视",
